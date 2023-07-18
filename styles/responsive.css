@@ -1,0 +1,16 @@
+@media screen and (max-width:576px) {
+    .nav-container {
+        flex-direction: column;
+      }
+      .nav-items-container{
+flex-direction: column;
+      }
+      .nav-items-container a{
+        margin-top: 20px;
+      }
+      
+}
+
+/* @media screen and () {
+    
+} */
